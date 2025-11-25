@@ -3,7 +3,7 @@
 ## 🚀 Live Demo
 Check out the deployed Churn Predictiion and Salary Estimation app here:
 **[👉 Click to View Streamlit App](https://churn-classification-j5ngpuuhyadtbeja6vbhyi.streamlit.app/)**                
-**[👉 Click to View Streamlit App]([https://churn-classification-u4gv27sdjcyv9h4ezfjjtn.streamlit.app/])**
+**[👉 Click to View Streamlit App](https://churn-classification-u4gv27sdjcyv9h4ezfjjtn.streamlit.app/)**
 
 ## 📌 Project Overview
 This repository contains two main machine learning applications:
