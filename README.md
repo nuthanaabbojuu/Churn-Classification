@@ -30,6 +30,7 @@ Open your terminal and run:
 ```bash
 git clone https://github.com/nuthanaabbojuu/Churn-Classification.git
 cd [your-repo-name]
+```
 
 ### 2. Create a Virtual Environment
 It is recommended to use a virtual environment to manage dependencies and avoid conflicts.
@@ -40,6 +41,7 @@ python -m venv venv
 
 # Mac/Linux
 python3 -m venv venv
+```
 
 ### 3. Activate the Environment
 Activate the virtual environment to ensure libraries are installed locally.
@@ -50,21 +52,25 @@ Activate the virtual environment to ensure libraries are installed locally.
 
 # Mac/Linux
 source venv/bin/activate
+```
 
 ### 4. Install Dependencies
 Install all required Python libraries listed in the requirements file.
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 5. Run Churn Prediction App (ANN)
 To launch the Churn Classification dashboard:
 
 ```bash
 streamlit run app.py
+```
 
 ### 6. Run Salary Estimation App
 To launch the Salary Estimation dashboard:
 
 ```bash
 streamlit run streamlit_regression.py
+```
